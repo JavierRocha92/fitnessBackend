@@ -1,0 +1,94 @@
+{
+    "virtualUsers" : [
+        {
+            "ID": 1,
+            "Physical_User_ID": 1,
+            "Name": "VirtualUser1",
+            "Email": "virtual1@example.com",
+            "Goal": "Lose weight",
+            "Daily_calories": 1800
+        },
+        {
+            "ID": 2,
+            "Physical_User_ID": 2,
+            "Name": "VirtualUser2",
+            "Email": "virtual2@example.com",
+            "Goal": "Build muscle",
+            "Daily_calories": 2500
+        },
+        {
+            "ID": 3,
+            "Physical_User_ID": 3,
+            "Name": "VirtualUser3",
+            "Email": "virtual3@example.com",
+            "Goal": "Stay fit",
+            "Daily_calories": 2000
+        },
+        {
+            "ID": 4,
+            "Physical_User_ID": 4,
+            "Name": "VirtualUser4",
+            "Email": "virtual4@example.com",
+            "Goal": "Lose weight",
+            "Daily_calories": 1600
+        },
+        {
+            "ID": 5,
+            "Physical_User_ID": 5,
+            "Name": "VirtualUser5",
+            "Email": "virtual5@example.com",
+            "Goal": "Stay fit",
+            "Daily_calories": 2200
+        },
+        {
+            "ID": 6,
+            "Physical_User_ID": 6,
+            "Name": "VirtualUser6",
+            "Email": "virtual6@example.com",
+            "Goal": "Build muscle",
+            "Daily_calories": 2700
+        },
+        {
+            "ID": 7,
+            "Physical_User_ID": 7,
+            "Name": "VirtualUser7",
+            "Email": "virtual7@example.com",
+            "Goal": "Lose weight",
+            "Daily_calories": 1900,
+            "Target_weight" : 122.8,
+            "Target_hip_circumference" : 88,
+            "Target_waist_circumference" : 93.8,
+            "Target_BMI" : 26.7,
+            "Target_Body_fat" : 24.8,
+            "Start_date" : "2022-01-07",
+            "End_date" : "2024-04-07",
+            "Activity_level" : "Moderate"
+        },
+        {
+            "ID": 8,
+            "Physical_User_ID": 8,
+            "Name": "VirtualUser8",
+            "Email": "virtual8@example.com",
+            "Goal": "Stay fit",
+            "Daily_calories": 2050
+        },
+        {
+            "ID": 9,
+            "Physical_User_ID": 9,
+            "Name": "VirtualUser9",
+            "Email": "virtual9@example.com",
+            "Goal": "Build muscle",
+            "Daily_calories": 2600
+        },
+        {
+            "ID": 10,
+            "Physical_User_ID": 10,
+            "Name": "VirtualUser10",
+            "Email": "virtual10@example.com",
+            "Goal": "Lose weight",
+            "Daily_calories": 1750
+        }
+    ]
+}
+
+

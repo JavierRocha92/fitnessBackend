@@ -1,0 +1,107 @@
+
+
+
+{
+    "users": [
+        {
+            "ID": 1,
+            "First name": "Juan",
+            "Last name": "García",
+            "Date of birth": "1990-05-15",
+            "Gender": "Masculine",
+            "Email": "juan.garcia@example.com",
+            "Password": "secreta123",
+            "Registration date": "2023-01-20"
+        },
+        {
+            "ID": 2,
+            "First name": "María",
+            "Last name": "Martínez",
+            "Date of birth": "1988-09-20",
+            "Gender": "Feminine",
+            "Email": "maria.martinez@example.com",
+            "Password": "clave456",
+            "Registration date": "2022-11-10"
+        },
+        {
+            "ID": 3,
+            "First name": "Carlos",
+            "Last name": "López",
+            "Date of birth": "1995-03-08",
+            "Gender": "Masculine",
+            "Email": "carlos.lopez@example.com",
+            "Password": "p@ssw0rd",
+            "Registration date": "2024-02-05"
+        },
+        {
+            "ID": 4,
+            "First name": "Ana",
+            "Last name": "Rodríguez",
+            "Date of birth": "1987-12-12",
+            "Gender": "Feminine",
+            "Email": "ana.rodriguez@example.com",
+            "Password": "ana1234",
+            "Registration date": "2023-07-18"
+        },
+        {
+            "ID": 5,
+            "First name": "Pedro",
+            "Last name": "Gómez",
+            "Date of birth": "1992-08-30",
+            "Gender": "Masculine",
+            "Email": "pedro.gomez@example.com",
+            "Password": "gomez567",
+            "Registration date": "2022-06-25"
+        },
+        {
+            "ID": 6,
+            "First name": "Laura",
+            "Last name": "Fernández",
+            "Date of birth": "1994-04-05",
+            "Gender": "Feminine",
+            "Email": "laura.fernandez@example.com",
+            "Password": "laura2024",
+            "Registration date": "2023-09-30"
+        },
+        {
+            "ID": 7,
+            "First name": "Alejandro",
+            "Last name": "Martín",
+            "Date of birth": "1991-11-18",
+            "Gender": "Masculine",
+            "Email": "alejandro.martin@example.com",
+            "Password": "martin789",
+            "Registration date": "2022-04-15"
+        },
+        {
+            "ID": 8,
+            "First name": "Sofía",
+            "Last name": "Díaz",
+            "Date of birth": "1989-07-02",
+            "Gender": "Feminine",
+            "Email": "sofia.diaz@example.com",
+            "Password": "sofia12345",
+            "Registration date": "2024-01-10"
+        },
+        {
+            "ID": 9,
+            "First name": "David",
+            "Last name": "Pérez",
+            "Date of birth": "1993-02-14",
+            "Gender": "Masculine",
+            "Email": "david.perez@example.com",
+            "Password": "perez123",
+            "Registration date": "2022-09-05"
+        },
+        {
+            "ID": 10,
+            "First name": "Elena",
+            "Last name": "Ruiz",
+            "Date of birth": "1996-06-28",
+            "Gender": "Feminine",
+            "Email": "elena.ruiz@example.com",
+            "Password": "ruiz678",
+            "Registration date": "2023-03-20"
+        }
+    ]
+}

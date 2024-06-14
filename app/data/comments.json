@@ -1,0 +1,74 @@
+{
+  "comments": [
+    {
+      "ID": 1,
+      "Content": "The apple pie was delicious!",
+      "Date_time": "2024-04-10 12:30:00",
+      "User_ID": 1,
+      "Recipe_ID": 1
+    },
+    {
+      "ID": 2,
+      "Content": "Caesar salad is my favorite dish. Thanks for the recipe.",
+      "Date_time": "2024-04-10 13:45:00",
+      "User_ID": 2,
+      "Recipe_ID": 2
+    },
+    {
+      "ID": 3,
+      "Content": "I tried making spaghetti carbonara and it turned out amazing. Thanks!",
+      "Date_time": "2024-04-10 14:20:00",
+      "User_ID": 3,
+      "Recipe_ID": 3
+    },
+    {
+      "ID": 4,
+      "Content": "The vegetable soup was perfect for this rainy day.",
+      "Date_time": "2024-04-10 15:10:00",
+      "User_ID": 4,
+      "Recipe_ID": 4
+    },
+    {
+      "ID": 5,
+      "Content": "The fruit smoothie is an excellent way to start the day.",
+      "Date_time": "2024-04-10 16:00:00",
+      "User_ID": 5,
+      "Recipe_ID": 5
+    },
+    {
+      "ID": 6,
+      "Content": "Baked chicken with vegetables has become my favorite recipe.",
+      "Date_time": "2024-04-10 17:20:00",
+      "User_ID": 6,
+      "Recipe_ID": 6
+    },
+    {
+      "ID": 7,
+      "Content": "Homemade pizza is a great option for a movie night.",
+      "Date_time": "2024-04-10 18:15:00",
+      "User_ID": 7,
+      "Recipe_ID": 7
+    },
+    {
+      "ID": 8,
+      "Content": "The vegetarian burger was surprisingly delicious. I recommend it!",
+      "Date_time": "2024-04-10 19:00:00",
+      "User_ID": 8,
+      "Recipe_ID": 8
+    },
+    {
+      "ID": 9,
+      "Content": "I made chicken fried rice for dinner and everyone loved it.",
+      "Date_time": "2024-04-10 20:30:00",
+      "User_ID": 9,
+      "Recipe_ID": 9
+    },
+    {
+      "ID": 10,
+      "Content": "Thanks for all these wonderful recipes!",
+      "Date_time": "2024-04-10 21:45:00",
+      "User_ID": 10,
+      "Recipe_ID": 10
+    }
+  ]
+}

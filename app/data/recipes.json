@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "ID": 1,
+      "Name": "Apple Pie",
+      "Description": "Delicious homemade apple pie.",
+      "Ingredients": "Apples, sugar, flour, butter, eggs, cinnamon",
+      "Instructions": "1. Peel and slice the apples. 2. Prepare the crust with flour, sugar, and butter. 3. Place the apples over the crust. 4. Sprinkle with cinnamon. 5. Bake for 45 minutes.",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 1
+    },
+    {
+      "ID": 2,
+      "Name": "Caesar Salad",
+      "Description": "Classic Caesar salad with grilled chicken and creamy dressing.",
+      "Ingredients": "Romaine lettuce, grilled chicken, parmesan cheese, croutons, Caesar dressing",
+      "Instructions": "1. Chop the lettuce and place it in a bowl. 2. Add the diced grilled chicken and croutons. 3. Sprinkle with grated parmesan cheese. 4. Toss with Caesar dressing.",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 2
+    },
+    {
+      "ID": 3,
+      "Name": "Spaghetti Carbonara",
+      "Description": "Italian pasta dish with delicious carbonara sauce.",
+      "Ingredients": "Spaghetti, pancetta or bacon, eggs, parmesan cheese, black pepper",
+      "Instructions": "1. Cook the pasta according to the package instructions. 2. Brown the pancetta or bacon in a skillet. 3. Whisk together the eggs, parmesan cheese, and black pepper. 4. Mix the cooked pasta with the pancetta and egg mixture.",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 3
+    },
+    {
+      "ID": 4,
+      "Name": "Vegetable Soup",
+      "Description": "Comforting soup full of fresh vegetables.",
+      "Ingredients": "Carrots, celery, onion, zucchini, tomatoes, leek, vegetable broth",
+      "Instructions": "1. Chop all the vegetables into small pieces. 2. Cook the vegetables in vegetable broth until tender. 3. Puree the soup if a smoother texture is desired. 4. Serve hot.",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 4
+    },
+    {
+      "ID": 5,
+      "Name": "Fruit Smoothie",
+      "Description": "Refreshing and healthy smoothie made with fresh fruits.",
+      "Ingredients": "Banana, strawberries, pineapple, plain yogurt, orange juice",
+      "Instructions": "1. Cut the fruits into small pieces. 2. Place the fruits in a blender along with yogurt and orange juice. 3. Blend until smooth and creamy. 4. Serve cold.",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 5
+    },
+    {
+      "ID": 6,
+      "Name": "Baked Chicken with Vegetables",
+      "Description": "Healthy and delicious main dish.",
+      "Ingredients": "Chicken breasts, carrots, broccoli, onion, garlic, olive oil, herbs",
+      "Instructions": "1. Cut the vegetables into large pieces. 2. Place the chicken and vegetables on a baking sheet. 3. Season with olive oil, chopped garlic, and herbs. 4. Bake for 25-30 minutes.",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 6
+    },
+    {
+      "ID": 7,
+      "Name": "Homemade Pizza",
+      "Description": "Homemade pizza with your favorite toppings.",
+      "Ingredients": "Pizza dough, tomato sauce, mozzarella cheese, ham, mushrooms, olives",
+      "Instructions": "1. Roll out the pizza dough on a baking sheet. 2. Spread with tomato sauce. 3. Add toppings as desired. 4. Bake at high temperature for 12-15 minutes.",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 7
+    },
+    {
+      "ID": 8,
+      "Name": "Vegetarian Burger",
+      "Description": "Delicious meatless burger with amazing flavors.",
+      "Ingredients": "Cooked chickpeas, onion, garlic, carrot, red bell pepper, spices, burger bun, lettuce, tomato, avocado",
+      "Instructions": "1. Mash the cooked chickpeas in a food processor. 2. Sauté the onion, garlic, carrot, and red bell pepper. 3. Mix the mashed chickpeas with the sautéed vegetables and spices. 4. Form patties and cook in a skillet until golden brown on both sides. 5. Serve on a burger bun with lettuce, tomato, and avocado.",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 8
+    },
+    {
+      "ID": 9,
+      "Name": "Chicken Fried Rice",
+      "Description": "Classic dish from Asian cuisine.",
+      "Ingredients": "Cooked rice, chicken breasts, carrots, peas, onion, egg, soy sauce",
+      "Instructions": "1. Cook the rice according to the package instructions. 2. Sauté the vegetables",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 9
+    },
+    {
+      "ID": 10,
+      "Name": "Chicken Fried Rice",
+      "Description": "Classic dish from Asian cuisine.",
+      "Ingredients": "Cooked rice, chicken breasts, carrots, peas, onion, egg, soy sauce",
+      "Instructions": "1. Cook the rice according to the package instructions. 2. Sauté the vegetables",
+      "Creation_Date": "2024-04-10",
+      "User_ID": 10
+    }
+  ]
+}

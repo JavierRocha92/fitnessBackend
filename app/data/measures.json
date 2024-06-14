@@ -1,0 +1,94 @@
+{
+  "measures": [
+    {
+      "ID": 1,
+      "Virtual_User_ID": 1,
+      "Date_Time": "2024-04-10 08:30:00",
+      "Height": 170.5,
+      "Weight": 70.2,
+      "Waist_Circumference": 85.0,
+      "Hip_Circumference": 95.5
+    },
+    {
+      "ID": 2,
+      "Virtual_User_ID": 2,
+      "Date_Time": "2024-04-10 09:00:00",
+      "Height": 165.75,
+      "Weight": 63.8,
+      "Waist_Circumference": 78.5,
+      "Hip_Circumference": 92.0
+    },
+    {
+      "ID": 3,
+      "Virtual_User_ID": 3,
+      "Date_Time": "2024-04-10 09:30:00",
+      "Height": 180.25,
+      "Weight": 80.5,
+      "Waist_Circumference": 90.0,
+      "Hip_Circumference": 100.75
+    },
+    {
+      "ID": 4,
+      "Virtual_User_ID": 4,
+      "Date_Time": "2024-04-10 10:00:00",
+      "Height": 175.0,
+      "Weight": 75.0,
+      "Waist_Circumference": 87.25,
+      "Hip_Circumference": 98.0
+    },
+    {
+      "ID": 5,
+      "Virtual_User_ID": 5,
+      "Date_Time": "2024-04-10 10:30:00",
+      "Height": 160.0,
+      "Weight": 58.6,
+      "Waist_Circumference": 75.75,
+      "Hip_Circumference": 88.5
+    },
+    {
+      "ID": 6,
+      "Virtual_User_ID": 6,
+      "Date_Time": "2024-04-10 11:00:00",
+      "Height": 168.5,
+      "Weight": 72.8,
+      "Waist_Circumference": 83.0,
+      "Hip_Circumference": 94.2
+    },
+    {
+      "ID": 7,
+      "Virtual_User_ID": 7,
+      "Date_Time": "2024-04-10 11:30:00",
+      "Height": 172.75,
+      "Weight": 69.9,
+      "Waist_Circumference": 86.5,
+      "Hip_Circumference": 96.75
+    },
+    {
+      "ID": 8,
+      "Virtual_User_ID": 8,
+      "Date_Time": "2024-04-10 12:00:00",
+      "Height": 167.25,
+      "Weight": 64.5,
+      "Waist_Circumference": 79.75,
+      "Hip_Circumference": 91.25
+    },
+    {
+      "ID": 9,
+      "Virtual_User_ID": 9,
+      "Date_Time": "2024-04-10 12:30:00",
+      "Height": 178.0,
+      "Weight": 77.3,
+      "Waist_Circumference": 88.75,
+      "Hip_Circumference": 99.5
+    },
+    {
+      "ID": 10,
+      "Virtual_User_ID": 10,
+      "Date_Time": "2024-04-10 13:00:00",
+      "Height": 163.5,
+      "Weight": 61.2,
+      "Waist_Circumference": 77.0,
+      "Hip_Circumference": 89.8
+    }
+  ]
+}

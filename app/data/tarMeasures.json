@@ -1,0 +1,104 @@
+{
+  "tarMeasures": [
+    {
+      "ID": 6663,
+      "Virtual_User_ID": 1,
+      "Target_Height": 186.3,
+      "Target_Weight": 214.9,
+      "Target_Waist_circumference": 248.57,
+      "Target_Hip_circumference": 161.09,
+      "Start_Date": "2023-12-13",
+      "End_Date": "2023-04-30"
+    },
+    {
+      "ID": 7367,
+      "Virtual_User_ID": 5,
+      "Target_Height": 128.14,
+      "Target_Weight": 255.17,
+      "Target_Waist_circumference": 217.9,
+      "Target_Hip_circumference": 157.75,
+      "Start_Date": "2023-06-07",
+      "End_Date": "2024-02-04"
+    },
+    {
+      "ID": 8565,
+      "Virtual_User_ID": 10,
+      "Target_Height": 211.71,
+      "Target_Weight": 99.91,
+      "Target_Waist_circumference": 223.95,
+      "Target_Hip_circumference": 93.19,
+      "Start_Date": "2023-12-12",
+      "End_Date": "2024-12-19"
+    },
+    {
+      "ID": 8355,
+      "Virtual_User_ID": 2,
+      "Target_Height": 126.77,
+      "Target_Weight": 68.14,
+      "Target_Waist_circumference": 115.69,
+      "Target_Hip_circumference": 179.75,
+      "Start_Date": "2024-05-05",
+      "End_Date": "2023-05-15"
+    },
+    {
+      "ID": 5231,
+      "Virtual_User_ID": 7,
+      "Target_Height": 175.93,
+      "Target_Weight": 99.29,
+      "Target_Waist_circumference": 281.57,
+      "Target_Hip_circumference": 170.9,
+      "Start_Date": "2022-12-11",
+      "End_Date": "2023-10-18"
+    },
+    {
+      "ID": 3570,
+      "Virtual_User_ID": 3,
+      "Target_Height": 171.69,
+      "Target_Weight": 206.45,
+      "Target_Waist_circumference": 154.98,
+      "Target_Hip_circumference": 198.22,
+      "Start_Date": "2022-11-17",
+      "End_Date": "2023-11-11"
+    },
+    {
+      "ID": 2468,
+      "Virtual_User_ID": 9,
+      "Target_Height": 107.11,
+      "Target_Weight": 296.26,
+      "Target_Waist_circumference": 285.78,
+      "Target_Hip_circumference": 188.26,
+      "Start_Date": "2023-12-19",
+      "End_Date": "2023-01-27"
+    },
+    {
+      "ID": 8249,
+      "Virtual_User_ID": 4,
+      "Target_Height": 165.98,
+      "Target_Weight": 71.24,
+      "Target_Waist_circumference": 124.78,
+      "Target_Hip_circumference": 106.15,
+      "Start_Date": "2022-04-28",
+      "End_Date": "2023-06-16"
+    },
+    {
+      "ID": 1097,
+      "Virtual_User_ID": 8,
+      "Target_Height": 133.09,
+      "Target_Weight": 217.46,
+      "Target_Waist_circumference": 295.62,
+      "Target_Hip_circumference": 151.36,
+      "Start_Date": "2022-04-28",
+      "End_Date": "2024-04-26"
+    },
+    {
+      "ID": 1050,
+      "Virtual_User_ID": 6,
+      "Target_Height": 117.33,
+      "Target_Weight": 252.4,
+      "Target_Waist_circumference": 118.81,
+      "Target_Hip_circumference": 169.46,
+      "Start_Date": "2024-04-13",
+      "End_Date": "2024-11-30"
+    }
+  ]
+}
